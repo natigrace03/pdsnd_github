@@ -29,7 +29,7 @@ def user_filters():
     return city, month, day
 
 
-def load_data(city, month, day):
+def city_load_data(city, month, day):
     """
     Loads data for the specified city and filters by month and day if applicable.
 
