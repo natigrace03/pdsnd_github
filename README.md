@@ -1,15 +1,16 @@
 ### Date created
-Include the date you created this project and README file.
+*January 31, 20201*
 
 ### Project Title
-Replace the Project Title
+**GIT Bikeshare Project**
 
 ### Description
-Describe what your project is about and what it does
+This is a UDACITY project for the nanodegree Programming for Data Science with R.
 
 ### Files used
-Include the files used
+* washington.csv
+* chicago.csv
+* new_york_city.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Thank you UDACITY for this great learning experience! :smile: :heart:
