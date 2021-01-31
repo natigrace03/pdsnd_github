@@ -13,4 +13,4 @@ This is a UDACITY project for the nanodegree Programming for Data Science with R
 * new_york_city.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Thank you UDACITY for this great learning experience! :smile: :heart:
