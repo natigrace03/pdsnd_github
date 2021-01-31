@@ -45,7 +45,7 @@ def city_load_data(city, month, day):
     return df
 
 
-def time_stats(df):
+def time_of_travel_stats(df):
     """Displays statistics on the most frequent times of travel."""
 
     print('\nCalculating The Most Frequent Times of Travel...\n')
