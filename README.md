@@ -1,10 +1,8 @@
 ### Date created
-**This text will be italic**
-_January 31, 20201_
+*January 31, 20201*
 
 ### Project Title
-**This text will be bold**
-_GIT Bikeshare Project_ 
+**GIT Bikeshare Project**
 
 ### Description
 Describe what your project is about and what it does
